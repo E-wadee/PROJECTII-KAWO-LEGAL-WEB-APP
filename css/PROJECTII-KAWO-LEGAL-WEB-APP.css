@@ -1,0 +1,55 @@
+.body{
+	margin:0px;
+	padding:0px;
+
+}
+
+
+.logoright{
+  margin-right:1300px;
+  color: red;
+}
+
+.navbar-nav2{
+  margin-left:900px;
+  
+}
+
+
+.showcase {
+  height: 100vh;
+  background-image: linear-gradient(rgba(139, 0, 0,0.7),rgba(139, 0, 0,0.7)), url('https://www.dailyexcelsior.com/wp-content/uploads/2019/05/Drinking-Cofee.jpg');
+  display: grid;
+  place-items: center;
+  text-align: center;
+  color: #fff ;
+  background-repeat: no-repeat; center; 
+  background-image: center;
+ background-size: 2000px 900px;
+}
+
+
+
+
+
+.uppernavbar{
+	
+	
+
+  
+}
+.card-header1{
+  margin-right:500px;
+}
+
+
+.icons{
+   margin-left:1300px;
+   color:blue;
+
+}
+
+.footer{
+  background-color: red;
+  color:white;
+}
